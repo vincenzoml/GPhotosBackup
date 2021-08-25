@@ -1,0 +1,15 @@
+{
+    "CasCap": {
+        "GooglePhotosOptions": {
+            "User": "your.email@mydomain.com",
+
+            "Scopes": [
+                "ReadOnly"
+                ],
+
+            "ClientId": "012345678901-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apps.googleusercontent.com",
+
+            "ClientSecret": "abcabcabcabcabcabcabcabc",
+        }
+    }
+}
