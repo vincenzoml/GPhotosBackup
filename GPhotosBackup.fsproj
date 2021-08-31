@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="CasCap.Apis.GooglePhotos" Version="1.0.23" />
+    <PackageReference Include="FSharp.JSon" Version="0.4.1" />
   </ItemGroup>
 
 </Project>
